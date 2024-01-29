@@ -18,11 +18,11 @@
 @font-face {
     font-family: raleway_f ;
     src: url(../fonts/raleway-black.woff2);
-    font-weight: normal;
+    font-weight: 900;
 }
 
 body {
-    background: #010101;
+    background-color: #010101;
     font-family: raleway_f, sans-serif;
     line-height: 1.55;
 }
