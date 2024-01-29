@@ -21,7 +21,6 @@
 
 body {
     background: #010101;
-    color: white;
     font-family: raleway_f, sans-serif;
     line-height: 1.55;
 }
@@ -70,6 +69,7 @@ body {
     text-transform: uppercase;
     font-weight: 900;
     color: #e7e7d3;
+    text-shadow: 0 0 15px #9e7d35;
 }
 
 .main-article {
