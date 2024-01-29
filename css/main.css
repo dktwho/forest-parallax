@@ -18,3 +18,10 @@
     src: url(../fonts/raleway-black.woff2);
     font-weight: normal;
 }
+
+body {
+    background: #010101;
+    color: white;
+    font-family: raleway_f, sans-serif;
+    line-height: 1.55;
+}
