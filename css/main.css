@@ -8,7 +8,6 @@
     --index: calc(1vw + 1vh);
     --text: #e7e7d3;
     --transition: transform .75s cubic-bezier(.075, .5, 0, 1);
-
 }
 
 @font-face {
@@ -43,7 +42,6 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     bottom: calc(var(--index) / -4.5);
-
 }
 
 .layers {
