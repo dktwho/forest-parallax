@@ -69,6 +69,7 @@ body {
     will-change: transform;
     text-transform: uppercase;
     font-weight: 900;
+    color: #e7e7d3;
 }
 
 .main-article {
@@ -77,4 +78,11 @@ body {
 
 .layers__title {
     font-size: calc(var(--index) * 2.5);
+    letter-spacing: calc(var(--index) / 2);
+}
+
+.layers__caption {
+    font-size: calc(var(--index) / 1.175);
+    letter-spacing: calc(var(--index) / 3.5);
+    margin-top: calc(var(--index) * -.75);
 }
